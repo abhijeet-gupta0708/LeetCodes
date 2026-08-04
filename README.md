@@ -13,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
