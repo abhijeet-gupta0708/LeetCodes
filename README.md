@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
