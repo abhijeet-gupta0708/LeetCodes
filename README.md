@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
