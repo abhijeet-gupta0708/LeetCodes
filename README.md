@@ -42,5 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
