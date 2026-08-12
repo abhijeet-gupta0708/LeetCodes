@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
+| [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
+| [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
