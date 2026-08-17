@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
