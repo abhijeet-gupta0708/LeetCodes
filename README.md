@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
