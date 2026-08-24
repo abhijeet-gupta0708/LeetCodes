@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0766-toeplitz-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
