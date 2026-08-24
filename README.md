@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1672-richest-customer-wealth](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
