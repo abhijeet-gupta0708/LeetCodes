@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
