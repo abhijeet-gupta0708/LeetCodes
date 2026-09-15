@@ -146,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
