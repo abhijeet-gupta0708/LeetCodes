@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
