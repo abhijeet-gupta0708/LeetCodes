@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
