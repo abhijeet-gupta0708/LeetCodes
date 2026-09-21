@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
