@@ -13,8 +13,10 @@ public:
 
         // We will be using same technique as permutation string question
 
+
         vector<int>ans;
         int freq1[26]={0};
+        if(p.size()>s.size()) return ans;
 
         for(int i=0;i<p.size();i++)
         freq1[p[i]-'a']++;
