@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
