@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0152-maximum-product-subarray) |
 ## Bracket Sequences
@@ -253,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
