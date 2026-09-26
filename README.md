@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
