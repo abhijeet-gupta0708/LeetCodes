@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0713-subarray-product-less-than-k) |
+| [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0766-toeplitz-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
+| [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
