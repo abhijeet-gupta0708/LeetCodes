@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1672-richest-customer-wealth) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0152-maximum-product-subarray) |
 ## Bracket Sequences
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
