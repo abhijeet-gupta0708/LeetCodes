@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0152-maximum-product-subarray) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0084-largest-rectangle-in-histogram) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
