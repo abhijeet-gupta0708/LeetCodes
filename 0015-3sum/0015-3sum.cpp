@@ -2,60 +2,38 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
 
-        int n = nums.size();
+        sort(nums.begin(),nums.end());
 
-        sort(nums.begin(), nums.end());
+        int low=0,high=nums.size()-1;
 
-        vector<vector<int>> finalans;
-
-        for(int i = 0; i < n; i++)
+        vector<vector<int>>ans;
+        int target=0;
+        for(int i=0;i<nums.size();i++)
         {
-            // Skip duplicate i
-            if(i > 0 && nums[i] == nums[i - 1])
-                continue;
-
-            int j = i + 1;
-            int k = n - 1;
-
-            while(j < k)
+            if(i>0 && (nums[i]==nums[i-1])) continue;
+            low=i+1;
+            high=nums.size()-1;
+            
+            while(low<high)
             {
-                int needed = nums[i] + nums[j] + nums[k];
-
-                if(needed == 0)
+                int sum=nums[i]+nums[low]+nums[high];
+                if(sum==target)
                 {
-                    vector<int> ans;
-
-                    ans.push_back(nums[i]);
-                    ans.push_back(nums[j]);
-                    ans.push_back(nums[k]);
-
-                    finalans.push_back(ans);
-
-                    // Skip duplicate j
-                    while(j < k && nums[j] == nums[j + 1])
-                        j++;
-
-                    // Skip duplicate k
-                    while(j < k && nums[k] == nums[k - 1])
-                        k--;
-
-                    // Move both pointers
-                    j++;
-                    k--;
+                    vector<int>temp={nums[i],nums[low],nums[high]};
+                    ans.push_back(temp);
+                    while (low < high && nums[low] == nums[low + 1]) low++;
+                    while (low < high && nums[high] == nums[high - 1]) high--;
+                    low++;
+                    high--;
+                    
                 }
-
-                else if(needed > 0)
-                {
-                    k--;
-                }
-
+                else if(sum>target)
+                high--;
                 else
-                {
-                    j++;
-                }
+                low++;
             }
-        }
 
-        return finalans;
+        }
+       return ans; 
     }
 };
