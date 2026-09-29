@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
