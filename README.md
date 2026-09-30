@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0713-subarray-product-less-than-k) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
