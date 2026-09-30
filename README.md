@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2104-sum-of-subarray-ranges) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
