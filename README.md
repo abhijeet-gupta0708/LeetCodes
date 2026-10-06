@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2104-sum-of-subarray-ranges) |
 ## Range Minimum/Maximum Query
 |  |
@@ -320,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
