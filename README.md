@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0234-palindrome-linked-list) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0234-palindrome-linked-list) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
