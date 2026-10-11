@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bit Manipulation
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
