@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0713-subarray-product-less-than-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0713-subarray-product-less-than-k) |
 | [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0724-find-pivot-index) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 ## Bubble Sort
 |  |
 | ------- |
