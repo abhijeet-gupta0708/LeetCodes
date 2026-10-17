@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0641-design-circular-deque) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Bubble Sort
 |  |
