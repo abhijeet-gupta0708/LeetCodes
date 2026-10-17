@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Bubble Sort
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
 |  |
