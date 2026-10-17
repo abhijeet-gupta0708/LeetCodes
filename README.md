@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 | [1672-richest-customer-wealth](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -383,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0051-n-queens) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
