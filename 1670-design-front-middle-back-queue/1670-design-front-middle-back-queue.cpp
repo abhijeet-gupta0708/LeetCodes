@@ -1,117 +1,73 @@
 class FrontMiddleBackQueue {
 public:
-     vector<int>arr;
-     int size,rear,middle,front;
 
+    vector<int>arr;
+    int size,rear,front,middle;
     FrontMiddleBackQueue() {
-        arr.resize(1001);
+
         rear=front=-1;
         middle=-1;
-        size=0;
-        
+        size=0;        
     }
     
     void pushFront(int val) {
-        // Check if its empty
-        if(front==-1)
-        {
-            front=rear=0;
-            arr[front]=val;
-        }
-        for(int i=size;i>0;i--)
-        {
-            arr[i]=arr[i-1];
-        }        
-        arr[0]=val;
 
-        
+        arr.insert(arr.begin(),val);
         size++;
-        front=0;
         rear=size-1;
+        
     }
     
     void pushMiddle(int val) {
 
         middle=size/2;
-        for(int i=size;i>middle;i--)
-        {
-            arr[i]=arr[i-1];
-        }
-        arr[middle]=val;
-
+        arr.insert(arr.begin()+middle,val);
         size++;
-         front=0;
         rear=size-1;
         
     }
     
     void pushBack(int val) {
 
-        if(size==0)
-        {
-            rear=front=0;
-            arr[0]=val;
-        }
-        else
-        {
-        arr[size]=val;
-        rear++;
-        }
+        arr.insert(arr.begin()+size,val);
+
         size++;
-         front=0;
         rear=size-1;
+
         
     }
     
     int popFront() {
-        if(size==0)
-        {
-            front=rear=-1;
-            return -1;
-        }
+        if(arr.empty()) return -1;
         int ele=arr[0];
-        for(int i=0;i<size-1;i++)
-        {
-            arr[i]=arr[i+1];
-        }
-
-         front=0;
-         size--;
+        arr.erase(arr.begin());
+        size--;
         rear=size-1;
+
         return ele;
         
     }
     
     int popMiddle() {
-
-        if(size==0) return -1;
-
-        else
-        {
-            middle=(size-1)/2;
-            int ele=arr[middle];
-            for(int i=middle;i<size-1;i++)
-            {
-                arr[i]=arr[i+1];
-            }
-             front=0;
-             size--;
+        if(arr.empty()) return -1;
+        middle=(size-1)/2;
+        int ele=arr[middle];
+        arr.erase(arr.begin()+middle);
+        size--;
         rear=size-1;
-
+        
         return ele;
-
-        }
         
     }
     
     int popBack() {
+        if(arr.empty()) return -1;
 
-        if(size==0) return -1;
         int ele=arr[rear];
+        arr.erase(arr.begin()+rear);
         size--;
-
-         front=0;
         rear=size-1;
+
         return ele;
         
     }
