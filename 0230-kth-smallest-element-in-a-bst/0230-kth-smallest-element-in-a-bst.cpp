@@ -11,10 +11,10 @@
  */
 class Solution {
 public:
-        int ans=0;
-        int count=0;
+    int ans=0,count=0;
     int kthSmallest(TreeNode* root, int k) {
-        if(root==nullptr) return ans;
+
+         if(root==nullptr) return ans;
         kthSmallest(root->left,k);
         count++;
         if(count==k)
@@ -22,5 +22,6 @@ public:
         kthSmallest(root->right,k);
 
         return ans;
+        
     }
 };
