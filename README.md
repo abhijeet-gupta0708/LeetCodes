@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
