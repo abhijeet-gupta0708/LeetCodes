@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
