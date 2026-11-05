@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0137-single-number-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
