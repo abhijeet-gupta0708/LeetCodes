@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0148-sort-list) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0872-leaf-similar-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
