@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
+| [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
