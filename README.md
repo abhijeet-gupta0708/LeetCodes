@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3693-climbing-stairs-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0746-min-cost-climbing-stairs) |
+| [3693-climbing-stairs-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3693-climbing-stairs-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
