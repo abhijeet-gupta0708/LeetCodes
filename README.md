@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0904-fruit-into-baskets) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0746-min-cost-climbing-stairs) |
 ## Bracket Sequences
 |  |
 | ------- |
