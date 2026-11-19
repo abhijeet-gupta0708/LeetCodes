@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1859-sorting-the-sentence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1859-sorting-the-sentence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/2785-sort-vowels-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
