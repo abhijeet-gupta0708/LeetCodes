@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/1903-largest-odd-number-in-string) |
+| [3360-stone-removal-game](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3360-stone-removal-game](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
