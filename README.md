@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0076-minimum-window-substring) |
+| [0392-is-subsequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0844-backspace-string-compare) |
 ## Matrix
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0746-min-cost-climbing-stairs) |
