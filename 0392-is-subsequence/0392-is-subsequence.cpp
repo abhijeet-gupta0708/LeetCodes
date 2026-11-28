@@ -1,3 +1,4 @@
+// Approach -- Twop Pointers , move i and j alsong side when s[i]=t[j], do i++,j++ if not do j++ only , atlast check i matches wwith the size it means condition satisfied
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
