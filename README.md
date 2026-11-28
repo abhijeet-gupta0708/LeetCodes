@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0525-contiguous-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/3693-climbing-stairs-ii) |
@@ -540,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/abhijeet-gupta0708/LeetCodes/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
